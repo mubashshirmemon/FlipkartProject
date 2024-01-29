@@ -13,7 +13,7 @@ This project aims to automate testing on the Flipkart website using Playwright a
 
 ## Getting Started
 
-Clone this repository to your local machine to get started with the Flipkart automation project.
+To get started with the Flipkart automation project, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/mubashshirmemon/FlipkartProject.git
@@ -22,11 +22,11 @@ cd FlipkartProject
 
 ## Prerequisites
 
-Before running the tests, make sure you have the following installed:
+Before running the tests, ensure you have the following installed:
 
-Node.js: Download and install Node.js
-Playwright: Install Playwright using npm
+Node.js: Download and install Node.js.
 
+Playwright: Install Playwright using npm.
 npm install -g playwright
 
 ## Installation
@@ -43,7 +43,7 @@ This command will execute the test suite and provide the test results.
 
 ## Test Cases
 
-The project includes various test cases to cover different aspects of the Flipkart website. You can find them in the src/tests directory. Feel free to customize or add new test cases based on your requirements.
+The project includes various test cases to cover different aspects of the Flipkart website. Find them in the src/tests directory. Feel free to customize or add new test cases based on your requirements.
 
 ## Contributing
 
