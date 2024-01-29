@@ -27,17 +27,26 @@ Before running the tests, ensure you have the following installed:
 Node.js: Download and install Node.js.
 
 Playwright: Install Playwright using npm.
+
+```bash
 npm install -g playwright
+```
 
 ## Installation
 
 Install project dependencies using npm:
+
+```bash
 npm install
+```
 
 ## Usage
 
 Run the Flipkart tests using the following command:
+
+```bash
 npx playwright test
+```
 
 This command will execute the test suite and provide the test results.
 
